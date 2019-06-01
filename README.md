@@ -28,7 +28,6 @@ https://github.com/flutter/flutter/issues/15972
             <td style="text-align: center">
                      <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363122.png" width="200"/>
             </td>
-    
             <td style="text-align: center">
                      <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/animatedcharts.gif" width="200"/>
             </td>            
