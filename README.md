@@ -1,16 +1,46 @@
 # flutteranimatedchartsapp
 
-A new Flutter project.
+Flutter Tutorial - Flutter Animated Charts
+Flutter Tutorial - Flutter Animated Charts Video series can be watched here https://www.youtube.com/watch?v=GwDMwnELTP4
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+We will see how to add animated charts in your flutter application using charts_flutter plugin.
+ 
+For more details regarding Flutter charts with Staggered Grid view check this link - https://www.youtube.com/watch?v=4gkt5qDBq4w
 
-A few resources to get you started if this is your first Flutter project:
+For more details about charts_flutter Plugin check this link - https://pub.dartlang.org/packages/charts_flutter#-readme-tab-
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+The online gallery link - https://google.github.io/charts/flutter/gallery.html
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility
+https://github.com/flutter/flutter/issues/15972 
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363591.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363135.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363122.png" width="200"/>
+            </td>
+        </tr>
+      <tr>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/animatedcharts.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
